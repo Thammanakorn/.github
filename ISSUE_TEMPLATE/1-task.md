@@ -2,6 +2,7 @@
 name: งาน (feature / ปรับปรุง)
 about: งานที่มีเป้าและเงื่อนไขเสร็จชัด
 title: ""
+type: Feature
 labels: ["type:feature"]
 ---
 ## เป้า

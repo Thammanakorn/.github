@@ -2,6 +2,7 @@
 name: บั๊ก
 about: ของที่เคยทำงานแล้วพัง
 title: ""
+type: Bug
 labels: ["type:bug"]
 ---
 ## อาการ

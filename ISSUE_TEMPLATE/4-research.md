@@ -2,6 +2,7 @@
 name: ค้นคว้า / ทดลอง
 about: หาคำตอบก่อนลงมือ
 title: ""
+type: Research
 labels: ["type:research"]
 ---
 ## คำถามที่ต้องตอบ

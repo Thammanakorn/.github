@@ -2,6 +2,7 @@
 name: งานเนื้อหา (ตอน / คลิป / ภาพ)
 about: Thunder, Atlascape, MediaHub, โฆษณา
 title: ""
+type: Content
 labels: ["type:content"]
 ---
 ## ชิ้นงาน
